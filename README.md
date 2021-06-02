@@ -1,4 +1,4 @@
-# Face-Recognition-and-Verification-System
+# Face-Recognition-and-Verification-(Keras and Tensorflow)
 This is an abstract system to verify and recognize the faces of the input data with the database.
 It gives us basic understanding of face recognition system with an example.
 
